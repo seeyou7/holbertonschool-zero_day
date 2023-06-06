@@ -1,2 +1,2 @@
-# holbertonschool-zero_day 
-Collaboration: be up to date
+holbertonschool-zero_day 
+
